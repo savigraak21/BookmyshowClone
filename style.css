@@ -1,0 +1,197 @@
+
+.frm{
+    border:1px solid whitesmoke;
+    border-radius:3%;
+    width:600px;
+    height:45px;
+
+}
+.frm .fa-solid{
+    align-items:center;
+    padding:12px;
+
+}
+.frm input{
+    /* text-decoration: none; */
+    flex:1;
+    border: none;
+    outline: none;
+   
+}
+
+#p{
+    margin-right:10px;
+    padding:2px;
+    text-align:right;
+}
+#butn{
+    margin-right:10px;
+}
+
+.fa-bars{
+    border:none;
+    outline: none;
+    padding-bottom:20px;
+    mix-blend-mode: multiply;
+    
+}
+
+.fa-bars:hover{
+    background-color:white;
+    border: none;
+    outline: none;
+}
+
+.offcan{
+    /* visibility: hidden; */
+    position:relative;
+    display: flex;
+}
+
+.mydiv a{
+    text-decoration: none;
+    color: black;
+    font-size:small;
+}
+
+.car{
+background-color:#C9CCD5;
+padding:10px;
+
+}
+
+#curv img{
+    border-radius:15px;
+    /* box-sizing: border-box; */
+}
+.div{
+    margin:1%;
+    padding:10px;
+}
+.div img{
+   justify-content: center;
+   align-items: center;
+    
+}
+
+.hr{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top:5%;
+    /* border-radius:120px; */
+    
+
+}
+
+.hr img{
+    border-radius: 15px;
+}
+
+
+.div1{
+    margin:3%;
+    padding:10px;
+}
+.div1 img{
+   justify-content: center;
+   align-items: center;
+    
+}
+
+.premeire{
+  border:1px solid #2b3149;
+  background-color:#2b3149 ;
+}
+.dv{
+    border:none;
+    outline:none;
+    margin:1%;
+}
+
+.dv img{
+    margin:1%;
+
+}
+.div2{
+    margin-top:2%;
+    
+}
+.div2 h1{
+    text-align:left;
+    margin:4px;
+    padding-right:10px;
+}
+.div2 small{
+    text-align:left;
+    padding-right:10px;
+}
+.col a{
+    text-decoration: none;
+}
+
+#h1{
+    text-align:left;
+  /* margin-top:10px; */
+    padding-left:20px;
+    margin: 0px;
+}
+#small{
+    text-align:left; 
+    padding-left:20px;
+}
+
+.blankdiv{
+    background-color: white;
+    border:1px solid white;
+    /* margin: 1%; */
+}
+
+
+.blankdiv img{
+        visibility: hidden;
+        mix-blend-mode: multiply;
+}
+
+.footer{
+    background-color:#353444;
+    padding:10px;
+}
+
+.footer img{
+    margin:1%;
+   
+}
+
+.footer .fa-brands{
+
+    color: white;
+    opacity:0.5;
+    margin-top:2%;
+    padding:3px;
+
+
+}
+
+.footer .fa-brands:hover{
+    color: white;
+    opacity:1;
+    margin-top:2%;
+    padding:3px;
+    
+}
+
+.fa-copyright{
+    opacity: 0.6;
+    color: white;
+
+}
+
+ #pre{
+
+    margin: 1%;
+    background-blend-mode:screen;
+    height:120px;
+ }
+
+
